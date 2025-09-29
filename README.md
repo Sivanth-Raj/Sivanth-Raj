@@ -1,4 +1,4 @@
-# Hi there, I'm [Sivanth Raj] 👋
+# Hi there, I'm Sivanth Raj 👋
 
 ### About Me
 - 🔭 I’m currently working on [Your current project or focus]  
